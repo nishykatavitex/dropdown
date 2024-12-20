@@ -123,6 +123,7 @@ export default function Home() {
               </AppDropdownMenuSub>
             </AppDropdownMenuContent>
           </AppDropdownMenu>
+          <a href='https://github.com/Vitex-Training/next-storybook/blob/component/dropdown-menu/src/app/page.tsx'>View code here</a>
         </div>
       </div>
     </main>
